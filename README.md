@@ -1,2 +1,1 @@
-# smart-greenhouse-project
-Arduino C/C++ firmware for temperature, humidity, water level sensing etc ... 
+1. live demonstration of the video: https://youtu.be/0Sn1GqWgeQo?si=h3MWyEdpqGjBEJ_4 
