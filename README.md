@@ -8,9 +8,14 @@
 
 
 4. individual contributions:
+
+   
    4.1 adam asssaad 6857: https://github.com/AdamsAssaadLU/smart-greenhouse-project/blob/main/Adam%20Assad%206857.pdf
+   
    4.2 ahmad murad 6856:  https://github.com/AdamsAssaadLU/smart-greenhouse-project/blob/main/Ahmad%20Murad%206856.pdf
+   
    4.3 haoulo msaylib 6909: https://github.com/AdamsAssaadLU/smart-greenhouse-project/blob/main/Haoulo%20Msaylib%206909.pdf
+   
    4.4 farah msaylib 6912: https://github.com/AdamsAssaadLU/smart-greenhouse-project/blob/main/Farah%20Msaylib%206912.pdf
 
 
